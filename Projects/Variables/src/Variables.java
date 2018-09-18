@@ -15,7 +15,7 @@ public class Variables {
 		System.out.println(B);
 		System.out.println(C);
 		System.out.println(D);
-		//simple print out of a values of the integers
+		//simple print out of a values of the integers on own ln
 	}
 
 }
